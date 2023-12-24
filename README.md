@@ -11,6 +11,8 @@ Before initiating the project, a preliminary examination of the data revealed a 
 
 ### Methodology:
 ![Picture1](https://github.com/pranavneu/mbti_prediction/assets/154646829/108fd528-8e84-4117-abd6-31c2d657cd9f)
+This project’s dataset was a combination of two datasets from Personality Café Forum and Twitter, respectively. Both of these datasets are now accessible on Kaggle as well. The Personality Café data set had around 8600 rows and the Twitter data set had over 7800 rows of data. The Personality Café data was used fully, but the imbalance was large. Thus, data relating to specific minority MBTI types were drawn from the Twitter dataset to achiever higher prediction accuracies. The final combined dataset consisted of approximately 12,555 rows, each row with posts from a unique user. Both datasets had “|||” pipelines within each row separating different comments made from users. Upon removal of the pipelines symbol, the entire dataset revealed a total of 975,145 posts. The initial column of the final dataset indicates the user’s MBTI type and the second column contains the individuals' posts.
+
 
 
 
