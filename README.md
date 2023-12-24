@@ -9,3 +9,8 @@ The data has been sourced from two distinct social media related datasets: the P
 While previous works have explored personality prediction using diverse personality tests, this project distinguishes itself through the integration of two distinct datasets. Unlike the literature surveyed, none have combined these particular datasets. The text data utilized for analysis are from PersonalityCafe.com and Twitter, both in social media post form. The primary source of the dataset was PersonalityCafe.com with specific samples of data from the Twitter dataset added to address imbalance issues. Also, VADER, a nltk module, was utilized to perform sentiment analysis due to its efficiency in social media data.
 Before initiating the project, a preliminary examination of the data revealed a significant skew despite the added data. Some MBTI types had considerably more data than others. To address this imbalance, the project also employed SMOTE analysis to equalize the weighting of the data, mitigating disparities in class distribution.
 
+### Methodology:
+![Picture1](https://github.com/pranavneu/mbti_prediction/assets/154646829/108fd528-8e84-4117-abd6-31c2d657cd9f)
+
+
+
