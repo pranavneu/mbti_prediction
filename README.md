@@ -1,1 +1,1 @@
-# mbti_prediction
+# Myers-Briggs Personality Prediction
