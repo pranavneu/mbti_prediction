@@ -20,6 +20,9 @@ The F1 score proved to be a pivotal metric in the context of data classification
 Considering the target variables as independent made it feasible to use logistic regression. The binary models for personality traits exhibit varying performances. E/I and S/N show strong alignment between AUC and accuracy while F/T and J/P indicate complexities in classification. This variability in performance may be attributed to the potential inadequacy of the model in capturing sufficient information.
 Looking forward, if we want to make improvements to the project, we could add more data sources to better correct data imbalances, especially in the minority classes. Advanced text analysis tools like tokenization and word2vec could also be implemented. It is also possible to try machine learning algorithms such as LSTMs to improve the predictions about MBTI personalities. Additionally, to improve the sentiment analysis we could implement new word-embedding techniques, such as BERT, which helps capture subtle meanings between words.
 
+<span style="font-size:larger;">***[Colab file link](https://colab.research.google.com/drive/1LbgUmB09XSW4E5rvL4lEKkBP7Ws3UKQy?usp=sharing)***</span>
+
+
 
 
 
