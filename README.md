@@ -22,6 +22,11 @@ Looking forward, if we want to make improvements to the project, we could add mo
 
 <span style="font-size:larger;">***[Colab file link](https://colab.research.google.com/drive/1LbgUmB09XSW4E5rvL4lEKkBP7Ws3UKQy?usp=sharing)***</span>
 
+### Contributors:
+[Pranav Kanth Anbarasan](https://www.linkedin.com/in/pranav-kanth-anbarasan-b5b93818a/)  
+Hasan Khwaja  
+Sreeja Vepa  
+
 
 
 
